@@ -1,9 +1,12 @@
 rencana fitur 
 - membuat aplikasi sederhana html & css
+ * harus responsive 
+ * menggunakan flex-box
 - membuat aplikasi sederhana dengan js
- * angular
- * react 
+
 - membuat js dom
 - frame work js 
+ * vite
 - es6
-- php
+
+-
