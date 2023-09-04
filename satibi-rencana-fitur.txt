@@ -4,3 +4,4 @@ rencana fitur
 - membuat js dom
 - frame work js 
 - es6
+- belajar react 
