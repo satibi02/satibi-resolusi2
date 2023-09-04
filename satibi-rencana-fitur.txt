@@ -1,7 +1,9 @@
 rencana fitur 
 - membuat aplikasi sederhana html & css
 - membuat aplikasi sederhana dengan js
+ * angular
+ * react 
 - membuat js dom
 - frame work js 
 - es6
-- belajar react 
+- php
