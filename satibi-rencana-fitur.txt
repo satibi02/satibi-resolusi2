@@ -10,3 +10,5 @@ rencana fitur
 - es6
 - belajar react 
 - pyton
+- php
+* laravel
