@@ -1,0 +1,5 @@
+rencana fitur 
+- membuat aplikasi sederhana html & css
+- membuat aplikasi sederhana dengan js
+- membuat js dom
+- 
